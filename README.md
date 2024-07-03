@@ -1,6 +1,6 @@
 # 👨‍💻 Soumik Hazra
 
-### 🎓 B.Tech Graduate in Computer Science and Engineering and Business System from Techno India University
+### 🎓 B.Tech Graduate in Computer Science and Business System Engineering from Techno India University
 Based in Kolkata, India
 
 ---
