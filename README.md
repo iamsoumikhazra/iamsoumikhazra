@@ -1,5 +1,7 @@
 # 👨‍💻 Soumik Hazra
 
+![Banner](https://github.com/iamsoumikhazra/iamsoumikhazra/blob/main/banner.png)
+
 ### 🎓 B.Tech Graduate in Computer Science and Business System Engineering from Techno India University
 Based in Kolkata, India
 
