@@ -26,7 +26,7 @@ Based in Kolkata, India
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/soumik-hazra-9755561b7/)
-- [Twitter](https://twitter.com/soumikhazra)
+- [Twitter](https://x.com/Technical_JETT)
 - [Email](mailto:www.soumikhazra@gmail.com)
 - [Blog](https://hashnode.com/@DEVSoumik)
 
